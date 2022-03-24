@@ -1,3 +1,3 @@
 print("Hallo Orbit")
 print('Belajar AI')
-print('Yes')
+print('Ini di cabang 1')
